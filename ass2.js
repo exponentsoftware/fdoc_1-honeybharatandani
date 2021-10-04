@@ -5,7 +5,7 @@
 
 const array = ["A", "B", "C"];
 
-let revArray = array.reverse(function (rev) {
+let revArray = array.reverse(function () {
   return revArray;
 });
 console.log("Reverse of Array is ", revArray);
