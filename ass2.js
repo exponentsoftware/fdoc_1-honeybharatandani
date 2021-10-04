@@ -8,7 +8,7 @@ const array = ["A", "B", "C"];
 let revArray = array.reverse(function (rev) {
   return revArray;
 });
-console.log(revArray);
+console.log("Reverse of Array is ", revArray);
 
 // 2.d. Write a function which check if items of an array are unique?
 // let checkUniqueness;
